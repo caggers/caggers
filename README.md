@@ -21,4 +21,4 @@ While I look for a new job and enjoy the end of the summer, I'm working on updat
 Here's some things I've made, you can also check out the code in my repos:
 * [New WIP SnowCast](https://schneecast.netlify.app/)
 * [Old SchneeCast](https://schneecast2018.netlify.app/)
-* [Here's who I was in 2019](https://caggers2019.netlify.app/), I'll update it when I have my Dad's app done, I promise! 
+* [Here's who I was in 2019](https://caggers2019.netlify.app/) (_I'll update it when I have my Dad's app done, I promise!_)
