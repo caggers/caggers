@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 While I look for a new job and enjoy the end of the summer, I'm working on updating an App I made for my Dad. He loves to ski and I wanted to give him the snow reports and forecasts for his favourite area in Austria. I'm rebuilding it with React, Typescript, React Testing-Library and Styled-Components because those are all of my favourite things to work with! 
 
-Here's some things I've made:
+Here's some things I've made, you can also check out the code in my repos:
 * [New WIP SnowCast](https://schneecast.netlify.app/)
 * [Old SchneeCast](https://schneecast2018.netlify.app/)
 * [Here's who I was in 2019](https://caggers2019.netlify.app/), I'll update it when I have my Dad's app done, I promise! 
