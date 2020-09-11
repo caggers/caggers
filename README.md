@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Profile Image](https://res.cloudinary.com/djztxjnrz/image/upload/c_scale,w_500/v1599853911/title-img_ceezti.png)
 
-I'm Gemma, I'm a Front End Software Developer looking for new opportunities in Vancouver, Canada or the world! My area of expertise lies in Javascript and React with over 4 years of experience but I have a passion for interface technologies beyond the browser.
+I'm Gemma, I'm a Front End Software Developer looking for new opportunities in Vancouver, Canada or the world! My area of expertise lies in Javascript and React with over 4 years of experience and I have a passion for interface technologies beyond the browser.
 
 I describe myself as a maker at heart who is happiest covered head to toe in glitter, paint and LEDs. The most important thing for me is to work with smart and creative people who inspire me. I genuinely enjoy peer programming and code reviews as part of a happy and healthy team. A day in my perfect role would have lots of opportunities for collaboration, learning, problem solving and critical thinking.
 
