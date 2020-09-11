@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Image](https://res.cloudinary.com/djztxjnrz/image/upload/v1599853389/title-img_vntyoq.png)
+![Profile Image](https://res.cloudinary.com/djztxjnrz/image/upload/v1599853389/title-img_vntyoq.png =500px)
 
 I'm Gemma, I'm a Front End Software Developer looking for new opportunities in Vancouver, Canada or the world! My area of expertise lies in Javascript and React with over 4 years of experience but I have a passion for interface technologies beyond the browser.
 
