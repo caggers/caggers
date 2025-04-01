@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![Profile Image](https://res.cloudinary.com/djztxjnrz/image/upload/v1600229145/cvtitle_bt4a37.png)
 
 
-I'm Gemma, I'm a Front End Software Engineer with GLEAN 
+I'm Gemma, I'm a Senior Software Engineer - Developing Advanced AI and Enhancing Conversational UX for Replicant's AI Agents
